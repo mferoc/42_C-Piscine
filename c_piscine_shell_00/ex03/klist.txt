@@ -1,0 +1,5 @@
+Credentials cache: API:ADD64836-1B05-415C-B835-58F8DFCE6E57
+        Principal: mathferr@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 18 17:18:37 2019  Nov 25 17:18:37 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
